@@ -247,4 +247,8 @@ https://trello.com/b/XsJS04DM/t3a2
 
 ## User Testing
 
-Some notes from user testing
+Gave the deployed website to user to test, took feedback added more trello cards for features and bugs that need fixing
+![userimg](docs/usertestimages/usertest1.png)
+![userimg](docs/usertestimages/usertest2.png)
+![userimg](docs/usertestimages/usertest3.png)
+![userimg](docs/usertestimages/usertest4.png)
