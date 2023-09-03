@@ -13,15 +13,23 @@
 - [R3 - Application Architecture Diagram](#r3-application-architecture-diagram)
 - [R4 - User Stories](#r4-user-stories)
 - [R5 - Wireframes](#r5-wireframes)
-- [R6 - Project Managment](#r6-standups-and-project-managament-with-trello) 
+- [R6 - Project Managment](#r6-standups-and-project-managament-with-trello)
+- [User Testing](#user-testing)
 
 ## Links
 ### Deployed Services
 
+[Github Organization](https://github.com/Support-Hero)
+
 [Front end](https://support-hero.netlify.app/)
+
+[Front end repo](https://github.com/Support-Hero/front-end)
 
 [Back end api](https://back-end-6pxz.onrender.com/)
 
+[Back end repo](https://github.com/Support-Hero/back-end)
+
+[Documentation](https://github.com/Support-Hero/documentation)
 
 ## R1: Description of your website
 
@@ -235,3 +243,8 @@ https://trello.com/b/XsJS04DM/t3a2
 ![trelloimg](docs/TrelloImages/31082023.png)
 ![trelloimg](docs/TrelloImages/01092023.png)
 ![trelloimg](docs/TrelloImages/02092023.png)
+![trelloimg](docs/TrelloImages/03092023.png)
+
+## User Testing
+
+Some notes from user testing
