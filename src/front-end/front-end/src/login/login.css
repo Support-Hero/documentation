@@ -1,0 +1,46 @@
+
+@media screen and (min-width:500px)  {
+    .container{
+       margin-top:10%
+    }
+    #image1 {
+        display: none;
+    }
+    #image2 {
+        width: 100%;
+        padding-top: 100px;
+    }
+    #logo {
+        display: none; 
+    }
+    #loginbox{
+        width: 75vw;
+        
+    }
+}
+@media screen and (min-width:800px) {
+    .container{
+        margin-top:12%
+     }
+     #image1 {
+        width: 50%;
+        display: block;
+        padding-top: 100px;
+    }
+    #image2 {
+        width: 50%;
+    }
+    #logo {
+        display: block; 
+    }
+    }
+@media screen and (min-width:1000px) {
+    .container{
+        margin-top:1%
+     }
+    
+    #loginbox{
+        width: 50%;
+        
+    }
+}

@@ -1,0 +1,35 @@
+
+
+@media screen and (max-width:1300px)  {
+   
+    #sidebar {
+        display: none;
+    }
+    #lg_main_bar{
+        display: none;
+    }
+    #main_bar{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width:1300px) {
+    #sidebar_btn{
+        width:150px;
+    }
+    #sidebar_btn:hover{
+        transform: translateX(20px);
+    }
+    #sidebar {
+        display: block;
+    }
+    #lg_main_bar{
+        display: block;
+    }
+    #main_bar{
+        display: none;
+    }
+}
