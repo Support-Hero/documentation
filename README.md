@@ -21,7 +21,7 @@
 
 [Github Organization](https://github.com/Support-Hero)
 
-[Front end](https://support-hero.netlify.app/)
+[Front end website](https://support-hero.netlify.app/)
 
 [Front end repo](https://github.com/Support-Hero/front-end)
 
